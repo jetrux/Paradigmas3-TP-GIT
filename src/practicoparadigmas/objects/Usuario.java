@@ -8,6 +8,4 @@ public class Usuario extends Cliente{
     public Usuario(Integer numDoc, String nombreC, String apellidoC) {
         super(numDoc, nombreC, apellidoC);
     }
-    
-    
 }

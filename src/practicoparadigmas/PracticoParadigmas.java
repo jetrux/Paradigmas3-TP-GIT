@@ -9,7 +9,7 @@ public class PracticoParadigmas {
     {
         // TODO code application logic here
         Cliente cliente;
-        Usuario usuario;
+        //Usuario usuario;
         
         //instanciar objeto con valores
 //        cliente = new Cliente();
