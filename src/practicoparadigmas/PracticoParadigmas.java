@@ -14,10 +14,12 @@ public class PracticoParadigmas {
         //instanciar objeto con valores
 //        cliente = new Cliente();
         cliente = new Cliente(40154950,"Gaston","Kuti");
+        usuario = new Usuario(0001,"Jhonny","Rainbow");
 //        cliente.setNombre("Gaston");
 //        cliente.setApellido("Kuti");
         
         //imprimir todos los atributos del objeto
         System.out.println(cliente);
+        System.out.print(usuario);
     }    
 }
